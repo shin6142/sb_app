@@ -27,9 +27,7 @@ test:
 
 production:
   <<: *default
-  adapter: mysql2
-  pool: 5
-  database: testapp_production
-  username: root
-  password: 
-  socket: /var/lib/mysql/mysql.sock
+  database: <%= ENV['DB_NAME'] %>
+  username: <%= ENV['DB_USERNAME'] %>
+  password: <%= ENV['DB_PASSWORD'] %>
+  host: <%= ENV['DB_HOSTNAME'] %>
