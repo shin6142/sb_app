@@ -1,5 +1,6 @@
 <p>こちらは山家紳のポートフォリオです</p>
 <h1>オンライン在宅留学コミュニティ「Studdy Buddy」 の参加者用アプリケーション</h1>
+<p><a href="https://www.sbapp.xyz/">こちらから是非御覧ください</a></p>
 <img src = "public/img/guide2-readme.jpg" width="50%"><img src = "public/img/guide-readme.jpg" width="50%">
 
 <h1>サービスの概要</h1>
