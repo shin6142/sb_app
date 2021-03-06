@@ -20,7 +20,7 @@
 <h1>✔技術・開発概要</h1>
 
 <h2>①モデル設計</h2>
-<img src = "../public/img/erb.jpg">
+<img src = "../public/img/erb-sbapp.jpg">
 
 
 
