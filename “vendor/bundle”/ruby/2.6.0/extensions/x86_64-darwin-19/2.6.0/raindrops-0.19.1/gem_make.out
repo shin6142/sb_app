@@ -1,5 +1,5 @@
 current directory: /Users/yamagashin/rails/sbapp/“vendor/bundle”/ruby/2.6.0/gems/raindrops-0.19.1/ext/raindrops
-/Users/yamagashin/.rbenv/versions/2.6.6/bin/ruby -I /Users/yamagashin/.rbenv/versions/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210202-72051-1o7rj5.rb extconf.rb
+/Users/yamagashin/.rbenv/versions/2.6.6/bin/ruby -I /Users/yamagashin/.rbenv/versions/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210304-41341-ivk662.rb extconf.rb
 checking for mmap() in sys/mman.h... yes
 checking for munmap() in sys/mman.h... yes
 checking for mremap() in sys/mman.h... no
@@ -36,4 +36,4 @@ linking shared-object raindrops_ext.bundle
 
 current directory: /Users/yamagashin/rails/sbapp/“vendor/bundle”/ruby/2.6.0/gems/raindrops-0.19.1/ext/raindrops
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 raindrops_ext.bundle ./.gem.20210202-72051-mv9nbo
+/usr/bin/install -c -m 0755 raindrops_ext.bundle ./.gem.20210304-41341-u534pd

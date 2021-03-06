@@ -1,5 +1,5 @@
 current directory: /Users/yamagashin/rails/sbapp/“vendor/bundle”/ruby/2.6.0/gems/mysql2-0.5.3/ext/mysql2
-/Users/yamagashin/.rbenv/versions/2.6.6/bin/ruby -I /Users/yamagashin/.rbenv/versions/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210128-23857-li40ev.rb extconf.rb --with-ldflags\=-L/usr/local/opt/openssl/lib
+/Users/yamagashin/.rbenv/versions/2.6.6/bin/ruby -I /Users/yamagashin/.rbenv/versions/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210304-41341-xaskjx.rb extconf.rb --with-ldflags\=-L/usr/local/opt/openssl/lib
 checking for rb_absint_size()... yes
 checking for rb_absint_singlebit_p()... yes
 checking for rb_wait_for_single_fd()... yes
@@ -41,4 +41,4 @@ linking shared-object mysql2/mysql2.bundle
 
 current directory: /Users/yamagashin/rails/sbapp/“vendor/bundle”/ruby/2.6.0/gems/mysql2-0.5.3/ext/mysql2
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 mysql2.bundle ./.gem.20210128-23857-1p6pmyp/mysql2
+/usr/bin/install -c -m 0755 mysql2.bundle ./.gem.20210304-41341-1cerxo2/mysql2

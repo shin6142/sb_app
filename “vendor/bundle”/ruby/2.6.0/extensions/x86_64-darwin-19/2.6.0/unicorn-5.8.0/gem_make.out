@@ -1,5 +1,5 @@
 current directory: /Users/yamagashin/rails/sbapp/“vendor/bundle”/ruby/2.6.0/gems/unicorn-5.8.0/ext/unicorn_http
-/Users/yamagashin/.rbenv/versions/2.6.6/bin/ruby -I /Users/yamagashin/.rbenv/versions/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210202-72051-157jyz7.rb extconf.rb
+/Users/yamagashin/.rbenv/versions/2.6.6/bin/ruby -I /Users/yamagashin/.rbenv/versions/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210304-41341-y0tnn8.rb extconf.rb
 checking for SIZEOF_OFF_T in ruby.h... yes
 checking for SIZEOF_SIZE_T in ruby.h... yes
 checking for SIZEOF_LONG in ruby.h... yes
@@ -28,4 +28,4 @@ linking shared-object unicorn_http.bundle
 
 current directory: /Users/yamagashin/rails/sbapp/“vendor/bundle”/ruby/2.6.0/gems/unicorn-5.8.0/ext/unicorn_http
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 unicorn_http.bundle ./.gem.20210202-72051-p0s0ys
+/usr/bin/install -c -m 0755 unicorn_http.bundle ./.gem.20210304-41341-k2d7jm
