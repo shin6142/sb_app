@@ -1,10 +1,13 @@
 <p>こちらは山家紳のポートフォリオです</p>
+<img src = "public/img/top-readme.jpg" width="50%"><img src = "public/img/profile-readme.jpg" width="50%">
+
+
 <h1>■何を作った？</h1>
 <p>オンライン在宅留学コミュニティ「Studdy Buddy」 の参加者用アプリケーション</p>
 <h1>✔サービスの概要</h1>
 <h2>①Studdy Buddyとは？</h2>
 <p>コロナ禍でも自宅からの国際交流を可能にするサービスです。</p>
-<img src = "public/img/readme1.jpg" width="50%">
+
 
 <h2>②誰のために?</h2>
 <p>・留学を諦めた学生</p>
